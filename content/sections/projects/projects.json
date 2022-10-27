@@ -2,47 +2,47 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "ML-Viz",
+      "title": "Machine Learning in the Browser",
+      "description": "An implementation of the KMeans clustering algorithm. The user selects what data variables they would like to be displayed and how many clusters should be input to the model. The data is plotted and each point's colour represents the model's prediction for which cluster it should belong to.",
+      "tags": ["React", "ML.JS", "Redux Toolkit", "Recharts", "Formik"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/js_img/mlviz2.JPG",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://boring-goldwasser-1ef6ff.netlify.app/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/jsmiles/ml-viz"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://boring-goldwasser-1ef6ff.netlify.app/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Cheese Emporium",
+      "title": "For all your cheese needs!",
+      "description": "Coming soon... 90's craft beer ascot franzen DSA enamel pin meditation pork belly. Asymmetrical 8-bit narwhal migas af. Pitchfork gluten-free echo park bushwick flannel snackwave messenger bag celiac. Yr artisan vice literally tote bag unicorn cold-pressed photo booth chillwave.",
+      "tags": ["NextJS", "Strapi"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/js_img/cheese.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/jsmiles/Cheese-Emporium"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Visit My Github",
+    "url": "https://github.com/jsmiles"
   }
 }

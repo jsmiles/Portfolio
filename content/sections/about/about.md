@@ -1,14 +1,10 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: '../../images/js_img/henry-be-MdJq0zFUwrw-unsplash.jpg'
+imageAlt: 'JS Dev Portfolio'
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+On this portofolio site you can get a preview of some projects I have worked on recently. For each, the core functionality is illustrated. I provide links to the source code for every project. Also, each is deployed live which you can check out below.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+On a daily basis I am building apps using React, NextJS and Gatsby. I am learning every day and am seeking a challenge that will support me in achieving my goals.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I worked initially as an academic and then in the data realm. Some tech I worked with includes R, Python, most varieties of SQL and many other analytics platforms.

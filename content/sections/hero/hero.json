@@ -1,22 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "Welcome",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
+    "src": "../../images/react.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Jon, a Frontend Developer",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
-  }
+  "description": "I am based in the UK and mainly build things with React"
 }
