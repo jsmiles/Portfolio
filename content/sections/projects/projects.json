@@ -24,6 +24,27 @@
     },
     {
       "visible": true,
+      "category": "Eye In The Sky",
+      "title": "Landsat images from NASA",
+      "description": "A React app that takes as input a location and a date. It then matches and renders the closest satellite image. Some limits exist on the time ranges and locations accessible. Also, cloud cover, darkness and alignment all mean the results you get for a single location can vary wildly as you alter the date. ",
+      "tags": ["ReactJS", "Fetch API"],
+      "image": {
+        "src": "../../images/js_img/eits.JPG",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/jsmiles/EyeInTheSky"
+        },
+        {
+          "type": "external",
+          "url": "https://neon-sorbet-b5e580.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Cheese Emporium",
       "title": "For all your cheese needs!",
       "description": "Coming soon... 90's craft beer ascot franzen DSA enamel pin meditation pork belly. Asymmetrical 8-bit narwhal migas af. Pitchfork gluten-free echo park bushwick flannel snackwave messenger bag celiac. Yr artisan vice literally tote bag unicorn cold-pressed photo booth chillwave.",
