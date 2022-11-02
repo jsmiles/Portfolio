@@ -1,8 +1,9 @@
 # Portfolio
-Welcome to my portfolio website! In this repo you can find the source code for the site. Alternatively you can visit the site itself [here](https://jsmiles.github.io/Portfolio/). I deployed it using [Github Pages](https://pages.github.com/). I built it using Gatsby <img src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" alt="gatsby logo" width="20"/> and really enjoyed learning the framework. 
+Welcome to my portfolio website! In this repo you can find the source code for the site. Alternatively you can visit the site itself [here](https://jtsdev.tech/). I built it using Gatsby <img src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" alt="gatsby logo" width="20"/> and really enjoyed learning the framework. 
 
 ## Projects Showcased
-- ML-Viz: machine learning in the browser. 
+- ML-Viz: machine learning in the browser.
+- Eye In The Sky: Landsat images from NASA
 - Cheese Emporium: coming soon...:alarm_clock:
 
 ## Lessons Learned
