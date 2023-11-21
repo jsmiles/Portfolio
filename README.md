@@ -1,7 +1,10 @@
-# Portfolio
-Welcome to my portfolio website! In this repo you can find the source code for the site. Alternatively you can visit the site itself [here](https://jtsdev.tech/). I built it using Gatsby <img src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" alt="gatsby logo" width="20"/> and really enjoyed learning the framework. 
+# End of Project
+I have built a new portfolio website but leave the repo here for personal reference
 
-## Projects Showcased
+~~# Portfolio
+Welcome to my portfolio website! In this repo you can find the source code for the site. Alternatively you can visit the site itself [here](https://jtsdev.tech/). I built it using Gatsby <img src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" alt="gatsby logo" width="20"/> and really enjoyed learning the framework.~~
+
+~~## Projects Showcased
 - ML-Viz: machine learning in the browser.
 - Eye In The Sky: Landsat images from NASA
 - Cheese Emporium: coming soon...:alarm_clock:
@@ -9,7 +12,7 @@ Welcome to my portfolio website! In this repo you can find the source code for t
 ## Lessons Learned
 - I really enjoyed learning GraphQL. Even though it is established, I had not used it previously. I now understand far better the hype surrounding the technology. 
 - I like how fast Gatsby can be. One of the tutorials really illustrated the benefits in performance especially compared to traditional approaches. I can see how Gatsby could be the right tool under certain conditions. 
-- I found the developer experience a little daunting. At times the error messages were amazing, at other times they were difficult to decipher. 
+- I found the developer experience a little daunting. At times the error messages were amazing, at other times they were difficult to decipher.
 
 ## Next Steps
 - I will be adding new portfolio projects to the site as they are completed. 
